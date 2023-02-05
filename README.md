@@ -11,7 +11,7 @@ With an engineering background, I am quite comfortable with math and the idea of
 working on programming projects, and I believe joining a community in github would help me to learn the best practice in text analysis 
 using any programming language.
 
-I recent hobby is hiking in the US national parks. I have visited 15 national parks during the last 6 months, including Yosemite, Yellowstone,
+My recent hobby is hiking in the US national parks. I have visited 15 national parks during the last 6 months, including Yosemite, Yellowstone,
 Grand Teton, Rocky Mountains, and many more. They are all gorgeous! I am looking to have another trip to Glacier National Park thins spring,
 and several national parks in Alaska during this early summer.
 
