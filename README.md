@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am Chaedar (he/him), a master's student in Public Administration at Columbia University. My study focuses on energy and the environment,
+
+I am Chaedar (he/him), a master's student in Public Administration at Columbia University. My study focuses on energy and the environment,
 with a specialization in data analytics and quantitative analysis.
 
 I am currently learning how to analyze text data especially from online resources, such as social media and news. I realized that text data 
