@@ -1,11 +1,5 @@
 ### Hi there 👋
-
-<!--
-**cip2121/cip2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I am Chaedar (he/him), a master's student in Public Administration at Columbia University. My study focuses on energy and the environment,
+### I am Chaedar (he/him), a master's student in Public Administration at Columbia University. My study focuses on energy and the environment,
 with a specialization in data analytics and quantitative analysis.
 
 I am currently learning how to analyze text data especially from online resources, such as social media and news. I realized that text data 
@@ -21,3 +15,7 @@ Grand Teton, Rocky Mountains, and many more. They are all gorgeous! I am looking
 and several national parks in Alaska during this early summer.
 
 You can reach me through my email (cip2121@columbia.edu). Looking forward to connecting and collaborating with you!
+
+<!--
+**cip2121/cip2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
