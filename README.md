@@ -12,7 +12,7 @@ working on programming projects, and I believe joining a community in github wou
 using any programming language.
 
 My recent hobby is hiking in the US national parks. I have visited 15 national parks during the last 6 months, including Yosemite, Yellowstone,
-Grand Teton, Rocky Mountains, and many more. They are all gorgeous! I am looking forward to having another trip to Glacier National Park thins spring,
+Grand Teton, Rocky Mountains, and many more. They are all gorgeous! I am looking forward to having another trip to Glacier National Park this spring,
 and to several national parks in Alaska during this early summer.
 
 You can reach me through my email (cip2121@columbia.edu). Looking forward to connecting and collaborating with you!
